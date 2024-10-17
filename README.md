@@ -9,7 +9,7 @@ Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo,
 <br>
 <br>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 Actualmente estoy trabajando en **mvshub(DISH)**
+- 🔭 Actualmente estoy trabajando en **NEORIS**
 - 🌱 Actualmente estoy aprendiendo **JAVA(Spring) Y PHYTON(DJango)**
 - 👯 Me gusta conocer personas con los mismos intereses para poder ampliar mi círculo
 - 🤔 Estoy en busca de un buen proyecto que me desafíe y donde pueda aportar mi conocimiento
