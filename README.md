@@ -12,11 +12,11 @@ Me apasiona el desarrollo backend y crear soluciones que resuelvan problemas rea
 <br>
 <br>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 Actualmente trabajando en **Euromundo Tour Operador** como Frontend Developer
-- 🌱 Profundizando en **Java (Spring Boot)** y **Python (Django)**
-- 🎯 Orientado a roles de **Backend o Fullstack**
-- 💬 Pregúntame sobre **Angular, NestJS, Laravel, PHP**
-- 📫 Contacto: **ferizamart97@gmail.com**
+- 🔭 Actualmente trabajando en **Euromundo Tour Operador** como Frontend Developer <br>
+- 🌱 Profundizando en **Java (Spring Boot)** y **Python (Django)** <br>
+- 🎯 Orientado a roles de **Backend o Fullstack** <br>
+- 💬 Pregúntame sobre **Angular, NestJS, Laravel, PHP** <br>
+- 📫 Contacto: **ferizamart97@gmail.com** <br>
 - ⚡ Dato curioso: Ex Jugador Profesional de Futbol 🌈
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
