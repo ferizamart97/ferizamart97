@@ -1,35 +1,42 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 <h1 align="center">¡Hola! 👋, Soy Fernando Izazaga</h1>
-<h3 align="center">Full Stack Developer | Siempre aprendiendo | Abierto a nuevos desafios.</h3>
+<h3 align="center">Full Stack Developer | Angular · NestJS · Laravel | Backend-oriented | Open to Remote</h3>
 
 <br>
 
-Desarrollador Full Stack apasionado por los desafíos y el aprendizaje continuo, con más de 2 años de experiencia.
+Desarrollador Full Stack con más de 4 años de experiencia profesional construyendo
+productos digitales en empresas como BBVA México, Dish México y Neoris.
+Me apasiona el desarrollo backend y crear soluciones que resuelvan problemas reales.
+
 <br>
 <br>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 Actualmente estoy trabajando en **NEORIS**
-- 🌱 Actualmente estoy aprendiendo **JAVA(Spring) Y PHYTON(DJango)**
-- 👯 Me gusta conocer personas con los mismos intereses para poder ampliar mi círculo
-- 🤔 Estoy en busca de un buen proyecto que me desafíe y donde pueda aportar mi conocimiento
-- 💬 Pregúntame sobre JavaScript, Angular, PHP
-- 📫 Cómo contactarme: [ferizamart97@gmail.com](mailto:ferizamart97@gmail.com)
-- 😄 Hobbies: Cocinar 🍝, Futbol ⚽, Natación 🏊, Café 	☕ y Leer 📖
-- ⚡ Dato curioso: Ex Jugador Profesional de Futbol🌈
+- 🔭 Actualmente trabajando en **Euromundo Tour Operador** como Frontend Developer
+- 🌱 Profundizando en **Java (Spring Boot)** y **Python (Django)**
+- 🎯 Orientado a roles de **Backend o Fullstack**
+- 💬 Pregúntame sobre **Angular, NestJS, Laravel, PHP**
+- 📫 Contacto: **ferizamart97@gmail.com**
+- ⚡ Dato curioso: Ex Jugador Profesional de Futbol 🌈
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 #### Un poco más sobre mí
 ```javascript
-const ferIzaz = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Tyscript","PHP", "HTML", "CSS"],
-  askMeAbout: ["Web Developer", "Front-End Developer", "Back-End Developer"],
+const ferizamart97 = {
+  pronouns: "He | Him",
+  experience: "+4 years professional",
+  currentJob: "Frontend Developer @ Euromundo",
+  code: ["JavaScript", "TypeScript", "PHP"],
+  askMeAbout: ["Angular", "NestJS", "Laravel", "REST APIs"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Angular", "React", "Tailwind"],
-      backend: ["PHP", "JS", "Laravel", "NodeJs", "ExpressJs"],
-  }
+    frontend: ["HTML", "CSS", "Angular", "React", "Vue", "Bootstrap", "Tailwind"],
+    backend:  ["NestJS", "PHP", "Laravel", "Node.js", "Express"],
+    database: ["PostgreSQL", "MySQL", "MariaDB", "MongoDB"],
+    cloud:    ["Azure", "AWS", "Firebase"],
+  },
+  learning: ["Java (Spring Boot)", "Python (Django)"],
+  openTo:   ["Remote", "Hybrid CDMX", "Backend roles", "Fullstack roles"],
 }
 ```
 
@@ -92,8 +99,8 @@ const ferIzaz = {
 </div>
 
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/ferizamart/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/feriza_97/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ferizamart97-0077B5?logo=linkedin)](https://linkedin.com/in/ferizamart97)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ferizamart97.dev-black?logo=vercel)](https://ferizamart97.dev)
+[![Email](https://img.shields.io/badge/Email-ferizamart97@gmail.com-D14836?logo=gmail)](mailto:ferizamart97@gmail.com)
   
 </p>
