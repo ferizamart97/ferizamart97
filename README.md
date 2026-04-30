@@ -47,7 +47,7 @@ const ferizamart97 = {
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,bootstrap,tailwind, sass" />
   </a>
 </p>
 
