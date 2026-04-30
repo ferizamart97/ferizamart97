@@ -47,14 +47,14 @@ const ferizamart97 = {
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,bootstrap,tailwind, sass, jquery, reactivex, vite, vitest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,bootstrap,tailwind,sass,jquery,reactivex,vite,vitest" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express, nginx" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,nginx" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ const ferizamart97 = {
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux,bash,bitbucket,jquery,netlify,notion,npm,planetscale,wordpress,yarn, graphql, jest, kubernetes" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux,bash,bitbucket,jquery,netlify,notion,npm,planetscale,wordpress,yarn,graphql,jest,kubernetes" />
   </a>
 </p>
 
