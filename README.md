@@ -82,14 +82,6 @@ const ferizamart97 = {
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
